@@ -1,9 +1,9 @@
-#Average_height
+#Average_height_Calculator
 #Created by Cephas Cardozo
 #Developed with Python
 
 #welcome_print
-print("Average Height")
+print("Average Height Calculator")
 print("Created By Cephas Cardozo")
 print("Developed using Python\n")
 
